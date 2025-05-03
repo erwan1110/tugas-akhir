@@ -1,0 +1,70 @@
+.main {
+    width: 1366px;
+    height: 200px;
+}
+
+.logo {
+    height: 50px;
+}
+
+button  {
+    background-color: #C71D1D;
+    font-family: Helvetica;
+}
+
+.heroSection {
+    padding-top: 80px;
+    .heroImage {
+        img {
+            width: 100%;
+        }
+    }
+}
+
+body {
+    font-size: arial;
+}
+
+.login {
+    align-items: center;
+    font-size: 15px;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.navbar {
+    padding: 0 50px;
+}
+
+/*
+.btn-primary {
+    background-color: #C71D1D;
+} */
+
+.titleBootcamp {
+    text-align: center;
+    height: 200px;
+    padding: 50px;
+    font-style: bold;
+}
+
+.colBootcamp {
+        img {
+            width: 250px;
+            height: 250px;
+            border-radius: 5px;
+        }
+        h4 {
+            text-align: center;
+            padding: 7px 0 0px;
+        }
+        p {
+            text-align: justify;
+            margin: 0;
+        }
+        button {
+            
+        }
+
+}
+
